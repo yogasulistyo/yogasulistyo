@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/yoga-sulistyo-684b54253/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+      <a href="https://portofolio-nine-rho.vercel.app/">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="myWeb"/>
+    </a>
   </div>
 </div>
   
